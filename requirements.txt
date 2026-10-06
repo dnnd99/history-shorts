@@ -1,0 +1,5 @@
+requests
+python-dotenv
+edge-tts>=7.0.0
+google-api-python-client
+google-auth-oauthlib

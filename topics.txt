@@ -1,0 +1,26 @@
+# Satu tokoh per baris, harus sama dengan judul artikel Wikipedia (bahasa Inggris)
+Cleopatra
+Genghis Khan
+Hannibal
+Alexander the Great
+Joan of Arc
+Napoleon
+Leonardo da Vinci
+Marie Curie
+Nikola Tesla
+Cyrus the Great
+Saladin
+Ashoka
+Qin Shi Huang
+Ibn Battuta
+Suleiman the Magnificent
+Catherine the Great
+Attila
+Mansa Musa
+Zheng He
+Hatshepsut
+Ramesses II
+Akbar
+Harriet Tubman
+Julius Caesar
+Charlemagne
